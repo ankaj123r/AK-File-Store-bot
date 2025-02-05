@@ -2,7 +2,7 @@
   <img src="https://envs.sh/OAG.jpg" alt="AK-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  AK FILE STORE BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+AK-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
