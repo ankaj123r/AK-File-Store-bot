@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/OAG.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://envs.sh/OAG.jpg" alt="AK-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
   VJ FILE STORE BOT
