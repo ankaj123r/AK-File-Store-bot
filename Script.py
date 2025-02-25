@@ -11,10 +11,8 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<blockquote>📂 ғɪʟᴇɴᴀᴍᴇ : @SHORA_BLANK{file_name}
-
+    CAPTION = """<blockquote>📂 ғɪʟᴇɴᴀᴍᴇ : @SHORA_BLANK {file_name}
 ⚙️ sɪᴢᴇ : {file_size}
-
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/techak_bott)</blockquote>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
