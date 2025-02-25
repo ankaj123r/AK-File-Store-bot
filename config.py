@@ -22,9 +22,9 @@ API_ID = int(environ.get("API_ID", "24171111"))
 API_HASH = environ.get("API_HASH", "c850cb56b64b6c3b10ade9c28ef7966a")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://envs.sh/OAG.jp')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://i.ibb.co/wZpRs7yJ/thumb.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1335306418').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "testarossafile_bot") # without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "Testarossa_file02_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -56,12 +56,12 @@ BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 # Verify Info :-
-VERIFY_MODE = bool(environ.get('VERIFY_MODE', False)) # Set True or False
+VERIFY_MODE = bool(environ.get('VERIFY_MODE', True)) # Set True or False
 
 # If Verify Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "") # shortlink domain without https://
-SHORTLINK_API = environ.get("SHORTLINK_API", "") # shortlink api
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "") # how to open link 
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "inshorturl.com") # shortlink domain without https://
+SHORTLINK_API = environ.get("SHORTLINK_API", "cf3d5d0fdafc45d9b389936ad654ffdbdb6d4366") # shortlink api
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/techak_support/12") # how to open link 
 
 # Website Info:
 WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', False)) # Set True or False
