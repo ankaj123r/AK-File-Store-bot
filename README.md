@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/OAG.jpg" alt="AK-FILE-STORE-BOT Logo">
+  <img src="https://i.ibb.co/wZpRs7yJ/thumb.jpg" alt="AK-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
   AK FILE STORE BOT
