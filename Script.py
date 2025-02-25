@@ -11,7 +11,7 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<blockquote>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<blockquote>📂 ғɪʟᴇɴᴀᴍᴇ : @SHORA_BLANK{file_name}
 
 ⚙️ sɪᴢᴇ : {file_size}
 
